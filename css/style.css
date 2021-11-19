@@ -1,0 +1,46 @@
+
+.c_next {
+	right: 6%;
+}
+.c_prev {
+	left: 85%;
+}
+.c_prev, .c_next {
+	top: 78%;
+	width: 4%;
+}
+
+.car_ind {
+	top: 7%;
+	right: 80%;
+	left: -11%;
+	display: block;
+
+}
+.car_ind button {
+	width: 15px !important;
+	height: 15px !important;
+	border-radius: 50%;
+}
+.custom_car_cap{
+	color: blue;
+}
+.slide_h{
+	font-size: 3.25rem;
+}
+.slide_p{
+	font-size: 1.5rem;
+}
+
+/*carousel 2*/
+.custom_next {
+	background-color: blue;
+	height: 20%;
+}
+.custom_buttom {
+	width: 20px !important;
+	height: 20px !important;
+	margin-right: 15px !important;
+	margin-left: 6px !important;
+	border-radius: 50% !important;
+}
